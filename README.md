@@ -12,7 +12,7 @@ By default, new users are assigned the "user" role. You can easily update roles 
 
 ## Requirement
 
-* PHP >= 8.2 + LDAP extension is true, as required by Laravel 11
+* PHP >= 8.2 + LDAP extension is ENABLE, as required by Laravel 11
 
 ## How to Install
 
