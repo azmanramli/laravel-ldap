@@ -43,4 +43,4 @@ php artisan key:generate
 php artisan storage:link
 ```
 
-6. Browse to your localhost or your web app address.
+6. Browse to your localhost or your web app address and login using your LDAP username and password.
