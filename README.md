@@ -8,7 +8,7 @@ I need a boilerplate for Laravel with the Tabler Admin template. So this is it.
 
 ## Requirement
 
-* PHP >= 8.2, as required by Laravel 11
+* PHP >= 8.2 + LDAP extension is true, as required by Laravel 11
 
 ## How to Install
 
