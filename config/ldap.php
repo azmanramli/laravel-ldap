@@ -28,20 +28,7 @@ return [
 
 'connections' => [
 
-    'default' => [
-        'hosts' => [env('LDAP_HOST', '172.17.10.19')],
-        'username' => env('LDAP_USERNAME', 'cn=Administrator,cn=Users,dc=ad,dc=mbmb,dc=gov,dc=my'),
-        'password' => env('LDAP_PASSWORD', 'Rootjalur99'),
-        'port' => env('LDAP_PORT', 389),
-        'base_dn' => env('LDAP_BASE_DN', 'dc=ad,dc=mbmb,dc=gov,dc=my'), // 🔄 Changed from OU=Users to domain root
-        'timeout' => env('LDAP_TIMEOUT', 10),
-        'use_ssl' => env('LDAP_SSL', false),
-        'use_tls' => env('LDAP_TLS', false),
-        'use_sasl' => env('LDAP_SASL', false),
-        'sasl_options' => [],
-    ],
 
-],
 
 
 
