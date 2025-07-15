@@ -1,10 +1,14 @@
-# Laravel 11 + Fortify + FortifyUI + FortifyUI Tabler + LDAP
+# Laravel 11 + FortifyUI + FortifyUI Tabler + LDAP
 
 ## About
 
-Perhaps this should be done differently. But this works for me now. With Laravel 11, things are a bit different and FortifyUI is not working correctly out of the box.
+With Laravel 11, some things have changed — and while FortifyUI isn’t working perfectly out of the box, this setup works well for me at the moment.
 
-I need a boilerplate for Laravel with the Tabler Admin template. So this is it.
+This is a Laravel boilerplate project that integrates the Tabler Admin Template for a clean and modern UI.
+
+It’s already configured with the required connection details (provided by me), so it’s ready to run.
+
+By default, new users are assigned the "user" role. You can easily update roles directly from the database or customize it further to fit your preference.
 
 ## Requirement
 
