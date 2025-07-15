@@ -24,9 +24,11 @@ composer install
 copy .env.example .env
 ```
 
-4. Update the ```.env``` file accordingly. Consider which database you are using.
+4. Update the ```.env``` file accordingly. Consider which database you are using and ldap connection given.
+   
+5. Update the config/ldap.php 'connections' => using connection given.
 
-5. Run the following command in the Terminal.
+6. Run the following command in the Terminal.
 ```
 php artisan migrate
 ```
