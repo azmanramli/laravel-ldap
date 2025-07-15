@@ -1,4 +1,4 @@
-# Laravel 11 + Fortify + FortifyUI + FortifyUI Tabler
+# Laravel 11 + Fortify + FortifyUI + FortifyUI Tabler + LDAP
 
 ## About
 
